@@ -15,4 +15,9 @@ btnReply : 'Gửi cho mình <3' ,
 reply : 'Yêu thì yêu mà không yêu thì yêu <33333333' ,
 mess : 'tớ biết mà 🥰. Yêu cậu nhiều 😘😘 ' ,                                                              messDesc : 'Tối nay 7h, mình qua đón đi chơi nha. " ,
 btn Chấp nhận : 'Okiiiii lun <3' ,                                                                      messLink : 'https://github.com/zukahai/Confess-Crush'  // liên kết lộn xộn của các bạn. VD: https://m.me/nam.nodemy
-}
+} const CONFIG = <3 ',
+    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}const  CONFIG  = {
+titleWeb : "giử cho..." ,
+introTitle : 'u.nhi' ,
+introDesc :
